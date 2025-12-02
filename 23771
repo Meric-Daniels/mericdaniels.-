@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MERIC DANIELS MUSIC</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <script type="text/javascript">alert ("MERIC DANIELS WELCOMES YOU 💁‍♀️");</script>
+
+    <div class="container">
+        <img src="./man.jpg" alt="Meric Daniels" class="profile-pic">
+
+        <h1 class="name">MERIC DANIELS MUSIC</h1>
+        <p class="bio">Song Writer| Vocalist | Artist 🎧✨</p>
+
+        <div class="links">
+            <a href="https://www.tiktok.com/@meric.daniels" class="link-item tiktok" target="_blank">
+                <span class="icon">🎶</span> TikTok
+            </a>
+            
+            <a href="https://www.youtube.com/@mericdaniels?si=RmcHRKkTs5-pPipz" class="link-item youtube" target="_blank">
+                <span class="icon">▶️</span> YouTube
+            </a>
+            
+            <a href="https://www.instagram.com/mericdaniels1?igsh=aGpkb3FhaDlqbXdj" class="link-item instagram" target="_blank">
+                <span class="icon">📸</span> Instagram
+            </a>
+          
+            <a href="mailto:mericdaniels1@gmail.com" class="link-item email" target="_blank">
+                <span class="icon">📧</span> Email
+            </a>
+
+            <a href="call:+256702857985" class="link-item phone" target="_blank">
+                <span class="icon">📞</span> Contacts
+            </a>
+        </div>
+
+        <p class="footer-text">Made with <span class="heart">❤️</span> for You by MERIC DANIELS</p>
+    </div>
+
+</body>
+</html>
+</html>
